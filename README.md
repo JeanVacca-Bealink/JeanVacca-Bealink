@@ -26,8 +26,9 @@ I'm **Jean VACCA**, a **Senior .NET Developer** with a strong passion for **soft
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-vacca/) *(replace with your actual LinkedIn URL)*
-- 🎯 [My GitHub Projects](https://github.com/your-username) *(replace with your actual GitHub username)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-vacca-16a52029/)
+- 🎯 [My GitHub Projects](https://github.com/JeanVacca-Bealink)
+- 🎯 [My Alt-GitHub Projects](https://github.com/JeanVACCA) 
 
 ---
 
